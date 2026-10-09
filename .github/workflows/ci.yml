@@ -30,7 +30,7 @@ jobs:
           cache: npm
       - run: npm ci
       - name: Chequear formato con Prettier
-        run: npm run format:check
+        run: npm run format:check "src/**/*.{ts,html,css,scss}"
 
   e2e:
     needs: build
