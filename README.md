@@ -1,4 +1,4 @@
-[![CI](https://github.com/FTLettieri/gestion-prueba/actions/workflows/ci.yml/badge.svg?branch=prueba)](https://github.com/FTLettieri/gestion-prueba/actions/workflows/ci.yml)
+[![CI](https://github.com/FTLettieri/gestion-prueba/actions/workflows/ci.yml/badge.svg?branch=FTLettieri-patch-1)](https://github.com/FTLettieri/gestion-prueba/actions/workflows/ci.yml)
 
 # Demo CI
 
