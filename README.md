@@ -1,3 +1,5 @@
+[![CI](https://github.com/FTLettieri/gestion-prueba/actions/workflows/ci.yml/badge.svg?branch=FTLettieri-patch-1)](https://github.com/FTLettieri/gestion-prueba/actions/workflows/ci.yml)
+
 # Demo CI
 
 SPA simple en Angular para mostrar CI con GitHub Actions.
@@ -11,3 +13,5 @@ npm install
 npm start      # http://localhost:4200
 npm run build
 ```
+
+asfasf
